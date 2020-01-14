@@ -10,7 +10,7 @@ function selectionSort(arrayToBeSorted){
      }
 
     }
-     
+
   }
   return arrayToBeSorted;
 

@@ -9,7 +9,7 @@ function insertionSort( x){
       j = j-1;
     }
     x[j+1] = number;
-    
+
   }
 }
 arrayToBeSorted = [23,4,66,7,12,45,60,81,2,3,98];
